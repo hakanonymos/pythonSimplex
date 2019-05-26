@@ -3,10 +3,10 @@ python methode simplex, Maximisation,Minimisation, fonction économique ( foncti
 
 Demo vidéo Youtube
 
-#Linux 
+# Linux 
 https://www.youtube.com/watch?v=qok8pEVp4NQ
 
-#windows
+# windows
 
 https://www.youtube.com/watch?v=qjKIJIZz938&t=65s
 
